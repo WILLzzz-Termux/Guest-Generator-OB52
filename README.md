@@ -1,0 +1,2 @@
+# Guest-Generator-OB52
+SUPPORT OB52 ONLY
